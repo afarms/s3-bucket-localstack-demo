@@ -17,6 +17,11 @@ O localstak é comumente utilizado, possuindo mais de 45k de github⭐, porém o
 
 2 - Execute a aplicação java em sua IDE preferida, nesse projeto foi utilizado o *Spring Tool Suite 4 (version: 4.17.1).*
 
+3 - Configure `spring.profiles.active` de acordo com o bucket que deseja testar, sendo:
+
+* Minio: spring.profiles.active=minio
+* LocakStack: spring.profiles.active=s3
+
 ## ⚙️ Executando
 1 - Upload de um arquivo no bucket:
 ```
