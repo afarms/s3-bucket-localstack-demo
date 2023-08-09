@@ -12,7 +12,7 @@ Navegar até o repositório raiz do projeto: *./s3-bucket-localstack-demo*.
 ```
 dokcer-compose up
 ```
-Após subir as imagens, será possível escolhar qual ferramenta deseja utilizar para simular o buket S3, localstak ou minio.
+Após subir as imagens, será possível escolher qual ferramenta deseja utilizar para simular o buket S3, localstak ou minio.
 O localstak é comumente utilizado, possuindo mais de 45k de github⭐, porém o minio possui uma interface muito intuitiva, podendo ser acessado pelo link: `http://localhost:9001/`
 
 2 - Execute a aplicação java em sua IDE preferida, nesse projeto foi utilizado o *Spring Tool Suite 4 (version: 4.17.1).*
