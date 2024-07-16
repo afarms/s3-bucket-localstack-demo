@@ -1,5 +1,5 @@
 # Simulação de bucket S3 sendo executado localmente
-Durante o desenvolvimento em cloud é comum a necessidade de testar recursos de cloud de forma local, um exemplo é o bucket S3 da Amazon, como é um recurso pago, não seria viável ter uma palicação executando localmente apontando para recursos existentes, acasionando em gastos desnecessários, uma boa forma de realizar esses testes é utilizar um bucket "fake", nesse projeto vamos demonstrar duas possibilidades de uso, localstak e minio.
+Durante o desenvolvimento em cloud é comum a necessidade de testar recursos de cloud de forma local, um exemplo é o bucket S3 da Amazon, como é um recurso pago, não seria viável ter uma aplicação executando localmente apontando para recursos existentes, ocasionando em gastos desnecessários, uma boa forma de realizar esses testes é utilizar um bucket "fake", neste projeto irei demonstrar duas possibilidades de uso, localstak e minio.
 * [LocalStack](https://localstack.cloud/)
 * [Minio](https://min.io/)
 ## 📋 Pré-requisitos
